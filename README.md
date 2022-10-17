@@ -1,5 +1,5 @@
 # UX-UI-deisgn-for-clothing
-View the created video for our fromt end design https://drive.google.com/file/d/1ESdOwXiCe0dPTHNRgA4ycq74gkeFtwsW/view?usp=sharing
+View the created video for the front-end design https://drive.google.com/file/d/1ESdOwXiCe0dPTHNRgA4ycq74gkeFtwsW/view?usp=sharing
 
 
 This is a UI/UX project which create an iPhone interface for trading/exchange clothing with close family and friends
